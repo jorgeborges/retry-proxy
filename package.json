@@ -1,0 +1,7 @@
+{
+  "name": "@jorgeborges/retry-proxy",
+  "version": "0.0.1",
+  "description": "A proxy to retry function calls on any object, useful for API calls over a network",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts"
+}
